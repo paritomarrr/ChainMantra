@@ -1,2 +1,2 @@
 # UI Design 
-![Homepage]("/src/assets/Homepage.png")
+![Homepage](/src/assets/Homepage.png)
